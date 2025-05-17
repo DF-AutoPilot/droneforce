@@ -10,3 +10,6 @@
 [submodule "droneforce-backend"]
 	path = droneforce-backend
 	url = https://github.com/DF-AutoPilot/droneforce-backend
+[submodule "droneforce-functions"]
+	path = droneforce-functions
+	url = https://github.com/DF-AutoPilot/droneforce-functions
