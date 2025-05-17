@@ -1,0 +1,6 @@
+[submodule "droneforce-contract"]
+	path = droneforce-contract
+	url = https://github.com/DF-AutoPilot/droneforce-contract
+[submodule "droneforce-app"]
+	path = droneforce-app
+	url = https://github.com/DF-AutoPilot/droneforce-app
