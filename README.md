@@ -50,6 +50,8 @@ Manages blockchain interactions for secure payments and task tracking:
 - **Task State Management**: Tracks task lifecycle (created → accepted → completed → verified)
 - **Escrow Cancellation**: Allows fund reclamation if tasks are canceled
 
+The escrow implementation is based on the [Non-Custodial Escrow example from Solana Anchor docs](https://examples.anchor-lang.com/docs/non-custodial-escrow).
+
 ## System Workflow
 
 1. **Task Creation**: Client creates a task via the App, locking payment in escrow through the smart contract
@@ -77,8 +79,9 @@ DroneForce is structured as a monorepo with submodules for each component:
 
 ## License
 
-*License information to be added*
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 
-*Contact information to be added*
+- [AdityaMulgundkar](https://github.com/AdityaMulgundkar)
+- [munjaal7](https://github.com/munjaal7)
