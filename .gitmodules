@@ -4,3 +4,9 @@
 [submodule "droneforce-app"]
 	path = droneforce-app
 	url = https://github.com/DF-AutoPilot/droneforce-app
+[submodule "droneforce-edge"]
+	path = droneforce-edge
+	url = https://github.com/DF-AutoPilot/droneforce-edge
+[submodule "droneforce-backend"]
+	path = droneforce-backend
+	url = https://github.com/DF-AutoPilot/droneforce-backend
